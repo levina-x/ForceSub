@@ -29,5 +29,5 @@ Note: `WELCOME_MSG` and `WELCOME_NOT_JOINED` can both be formatted using paramet
 
 # Credits
 - [Telethon](https://github.com/LonamiWebs/Telethon)
-- [BotzHub](https://t.me/BotzHub)
-- [Me](https://xditya.me/tg)
+- [veez project](https://t.me/levinachannel)
+- [contact me](https://t.me/dlwrml)
