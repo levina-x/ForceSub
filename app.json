@@ -1,15 +1,15 @@
 {
-    "name": "Force Sub Bot",
-    "description": "Python based bot to Force Users to sub a channel.",
-    "logo": "",
+    "name": "force subscribe bot",
+    "description": "bot yang dibuat untuk meningkatkan jumlah subscribers channel Telegram",
+    "logo": "https://telegra.ph/file/50c759196177c9680fda0.jpg",
     "keywords": [
         "telegram",
         "telethon",
         "telegram-bot"
     ],
-    "repository": "https://github.com/xditya/ForceSub",
+    "repository": "https://github.com/levina-x/ForceSub",
     "website": "xditya.me",
-    "success_url": "https://t.me/BotzHub",
+    "success_url": "https://t.me/levinachannel",
     "env": {
         "API_HASH": {
             "description": "You API HASH from my.telegram.org",
