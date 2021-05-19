@@ -144,7 +144,7 @@ async def _(event):
 
 @BotzHub.on(events.NewMessage(pattern="/start"))
 async def strt(event):
-    await event.reply(f"hai, saya adalah force subscribe bot, yang dibuat untuk meminta anggota didalam grup untuk bergabung ke channel sebelum mengetik didalam grup, saya akan melakukan mute pada anggota yang belum join ke channel yang anda minta!\n\nselengkapnya di @levinachannel", buttons=[Button.url("CHANNEL", url=f"https://t.me/{channel}"), Button.url("OWNER", url=f"https://t.me/dlwrml)])
+    await event.reply(f"hai, saya adalah force subscribe bot, yang dibuat untuk meminta anggota didalam grup untuk bergabung ke channel sebelum mengetik didalam grup, saya akan melakukan mute pada anggota yang belum join ke channel yang anda minta!\n\nselengkapnya di @levinachannel", buttons=[Button.url("CHANNEL", url=f"https://t.me/{channel}"), Button.url("OWNER", url="https://t.me/dlwrml)])
 
     
 print("forcesub bot has started.\ndo visit @levinachannel!")
